@@ -1,5 +1,11 @@
+import Header from "./Components/Header"
+import Hero from "./Components/Hero"
+import Nosotros from "./Components/Nosotros"
+
 export default function App() {
   return(<>
-  <h1>Astanza Casa Restauradora</h1>
+  <Header />
+  <Hero />
+  <Nosotros />
   </>)
 }

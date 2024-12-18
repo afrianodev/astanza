@@ -8,7 +8,7 @@ function Hero() {
         alt="Fotografía de taller de arte con pinceles"
         className="w-full h-[35vh] object-cover"
       />
-      <h2 className="absolute inset-0 flex items-center justify-center text-white text-4xl font-bold bg-black/50">
+      <h2 className="absolute inset-0 flex items-center justify-center text-center text-white text-2xl md:text-4xl font-bold bg-black/50">
         Conservamos la belleza de lo invaluable.
       </h2>
     </div>
